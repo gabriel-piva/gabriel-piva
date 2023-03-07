@@ -17,6 +17,6 @@
 </div>
 <br>
 <div align="center">    
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/5080655502037665128/6262FE1F0AF40B9D68794197E6FD4737EC86B4E4/">
+    <img width="175px" src="https://steamuserimages-a.akamaihd.net/ugc/5080655502037665128/6262FE1F0AF40B9D68794197E6FD4737EC86B4E4/">
 </div>
   
