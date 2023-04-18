@@ -6,8 +6,8 @@
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiiva&layout=compact&langs_count=7&theme=dracula&bg_color=0d1117&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpiiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-piva&layout=compact&langs_count=7&theme=dracula&bg_color=0d1117&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-piva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
     </div>
 </div>
 <br>
