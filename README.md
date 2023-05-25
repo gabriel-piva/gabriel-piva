@@ -23,6 +23,7 @@ Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e 
     <img src="https://img.shields.io/badge/Java-E84135?style=for-the-badge&logo=openjdk&logoColor=E84135&labelColor=070707" alt="Java">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=070707" alt="PHP">
+    <img src="https://img.shields.io/badge/C-3a464b?style=for-the-badge&logo=c&logoColor=3a464b&labelColor=070707" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=070707" alt="C++">
 </div>
 
