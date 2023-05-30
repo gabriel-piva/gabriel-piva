@@ -12,7 +12,7 @@ Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e 
 </div>
 
 ### Tecnologias
-#### Programação
+#### Linguagens
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=070707" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=070707" alt="TypeScript">
