@@ -1,7 +1,7 @@
 ## <img src="https://img.shields.io/static/v1?label=Github&message=Gabriel Piva&color=f8efd4&style=for-the-badge&logo=GitHub" width="220px">
 
 ### Sobre
-Oi, eu sou o Gabriel Piva, estudante de Ciência da Computação atualmente no 5° período.<br>
+Oi, eu sou o Gabriel Piva, estudante de Ciência da Computação atualmente no 6° período.<br>
 Tenho interesse na área de desenvolvimento web, tanto front-end quanto back-end.<br>
 Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e safety/security com a técnica STPA.
 
