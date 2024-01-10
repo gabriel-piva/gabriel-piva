@@ -1,9 +1,9 @@
 ## <img src="https://img.shields.io/static/v1?label=Github&message=Gabriel Piva&color=f8efd4&style=for-the-badge&logo=GitHub" width="220px">
 
 ### Sobre
-Oi, eu sou o Gabriel Piva, estudante de Ciência da Computação atualmente no 6° período.<br>
+Oi, eu sou o Gabriel Piva, estudante de Ciência da Computação atualmente no 7° período.<br>
 Tenho interesse na área de desenvolvimento web, tanto front-end quanto back-end.<br>
-Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e safety/security com a técnica STPA.
+Atualmente estou estudando sobre Spring Boot, Node.js, microsserviços e a técnica STPA. 
 
 ### Formação
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
@@ -19,11 +19,15 @@ Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=070707" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=070707" alt="CSS">
     <img src="https://img.shields.io/badge/Java-E84135?style=for-the-badge&logo=openjdk&logoColor=E84135&labelColor=070707" alt="Java">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=070707" alt="Python">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=070707" alt="PHP">
     <img src="https://img.shields.io/badge/C-3a464b?style=for-the-badge&logo=c&logoColor=3a464b&labelColor=070707" alt="C">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=070707" alt="C++">
 </div>
+
+#### Bibliotecas, Frameworks e Ambientes
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=070707" alt="NodeJS">
 
 #### Banco de Dados e Ferramentas
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
@@ -31,6 +35,7 @@ Atualmente estou estudando sobre TypeScript, design patterns, microsserviços e 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=E44C30&labelColor=070707" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=f8efd4&labelColor=070707" alt="GitHub">
     <img src="https://img.shields.io/badge/Insomnia-7B00FF?style=for-the-badge&logo=insomnia&logoColor=7B00FF&labelColor=070707" alt="Insomnia">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=070707" alt="Postman">
 </div>
 
 ### Contato 
