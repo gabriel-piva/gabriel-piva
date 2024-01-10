@@ -26,8 +26,10 @@ Atualmente estou estudando sobre Spring Boot, Node.js, microsserviços e a técn
 </div>
 
 #### Bibliotecas, Frameworks e Ambientes
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=070707" alt="NodeJS">
+<div style="display: flex; gap: 7px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=070707" alt="NodeJS">
+</div>
 
 #### Banco de Dados e Ferramentas
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
@@ -39,7 +41,7 @@ Atualmente estou estudando sobre Spring Boot, Node.js, microsserviços e a técn
 </div>
 
 ### Contato 
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 7px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/gabriel-piva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:gabriel.piva@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
