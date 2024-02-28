@@ -3,7 +3,7 @@
 ### Sobre
 Oi, eu sou o Gabriel Piva, estudante de Ciência da Computação atualmente no 7° período.<br>
 Tenho interesse na área de desenvolvimento web, tanto front-end quanto back-end.<br>
-Atualmente estou estudando sobre Spring Boot, Node.js, microsserviços e a técnica STPA. 
+Atualmente estou estudando sobre Spring Boot, React, microsserviços e a técnica STPA. 
 
 ### Formação
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
@@ -27,6 +27,7 @@ Atualmente estou estudando sobre Spring Boot, Node.js, microsserviços e a técn
 
 #### Bibliotecas, Frameworks e Ambientes
 <div style="display: flex; gap: 7px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/React-0175AA?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=070707" alt="React">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=070707" alt="Spring Boot">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=070707" alt="NodeJS">
 </div>
