@@ -45,8 +45,8 @@ Tenho interesse nas áreas de desenvolvimento web, UI/UX, microsserviços e STPA
     <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=316192&labelColor=070707" alt="MySQL">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=E44C30&labelColor=070707" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-f8efd4?style=for-the-badge&logo=github&logoColor=f8efd4&labelColor=070707" alt="GitHub">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=070707" alt="Figma">
-    <img src="https://img.shields.io/badge/Insomnia-7B00FF?style=for-the-badge&logo=insomnia&logoColor=7B00FF&labelColor=070707" alt="Insomnia">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=070707" alt="Figma">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=070707" alt="Docker">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=070707" alt="Postman">
 </div>
 
